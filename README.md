@@ -1,7 +1,7 @@
 # Timeline - Frontend
 
 This has been started during the Auto1 Hackathon in October of 2019 as a personal project to learn React. 
-I will keep working on this from time to time.
+I will keep working on this from time to time. If you want to run this together with the backend for testing purposes just start this via `npm start`. I added a proxy for the backend calls from/to port 8080 to the package.json file to avoid CORS warnings.
 
 Please find instructions how to use this below.
 
